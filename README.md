@@ -61,7 +61,17 @@ literature.
 
 ### Mesh (Cells used for Computation)
 
-![Mesh](https://raw.githubusercontent.com/SinghSidhuKuldeep/2D-Navier-Stokes-Solver/assets/mesh.png)
+![Mesh](https://github.com/singhsidhukuldeep/2D-Navier-Stokes-Solver/raw/master/assets/mesh.png)
+
+The governing equations are solved in the physical plane within the defined computational
+domain. The computational domain is discretized into a set of small triangular
+cells. The field variables u, v, and p are defined at their cell centers. The
+governing equations are discretized by finite volume technique based on the integral
+form of the equations to be solved. For any arbitrary cell which is completely
+immersed in the flow domain (­), the stencil used to solve the discretized equation
+is given. The grid related information required to performthe flow calculations
+are nodal co-ordinates, neighbouring cells and neighbour to neighbouring
+cells.
 
 ## CREDITS
 Kuldeep Singh Sidhu
