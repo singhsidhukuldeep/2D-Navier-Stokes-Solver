@@ -73,6 +73,16 @@ is given. The grid related information required to performthe flow calculations
 are nodal co-ordinates, neighbouring cells and neighbour to neighbouring
 cells.
 
+  
+<h2 align="center">🌟⭐✨STAR ME✨⭐🌟</h2>
+
+<p align="center">
+  <b>You can give me a small 🤓 dopmaine 🤝 support by ⭐STARRING⭐ this project</b>
+  
+<img src="https://api.star-history.com/svg?repos=singhsidhukuldeep/2D-Navier-Stokes-Solver&type=Date" width="70%" alt="🌟⭐✨STAR ME✨⭐🌟">
+</p>
+
+
 ## CREDITS
 
 >Kuldeep Singh Sidhu
